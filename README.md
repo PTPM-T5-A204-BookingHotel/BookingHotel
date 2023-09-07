@@ -19,7 +19,7 @@
     <li>Các danh mục.</li>
     <li>AI: Nhận diện khách nhận phòng (Nhận diện khuôn mặt).</li>
   </ul>
-  <h4>WEP:</h4>
+  <h4>WEB:</h4>
   <ul>
     <li>Đặt online</li>
   </ul>
