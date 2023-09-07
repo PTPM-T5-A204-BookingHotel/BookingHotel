@@ -24,7 +24,7 @@
     <li>Đặt online</li>
   </ul>
 <h3>Các ưu điểm và hạn chế:</h3>
-<h4>Ưu điểm</h4>
+<h4>Ưu điểm:</h4>
 <ul>
   <li>Tiết kiệm thời gian</li>
   <li>Độ chính xác cao</li>
@@ -32,4 +32,4 @@
   <li>Quản lý hoạt động kinh doanh từ xa</li>
   <li>Giao diện dễ dùng</li>
 </ul>
-<h4>Hạn chế</h4>
+<h4>Hạn chế:</h4>
