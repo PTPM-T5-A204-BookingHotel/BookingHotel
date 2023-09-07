@@ -12,14 +12,14 @@
   <img src="https://avatars.githubusercontent.com/u/135974288?v=4" width="80" height="80">
 </div>
 <h3>Các yêu cầu của đề tài:</h3>
-  APP:<br>
+  <h4>APP:</h4>
   <ul>
     <li>Đặt phòng: Lấy thông tin cá nhân của khách hàng và kiểm tra nó. Nếu khách đã từng đặt phòng thì có thể xác thực qua số điện thoại, còn chưa có thì thực hiện tạo mới. Sau đó thực     hiện đặt phòng cho khách với số phòng trống tương ứng mà khách yêu cầu.</li>
     <li>Trả phòng: Kiểm tra tình trạng phòng, các dịch vụ đi kèm, sau đó thực hiện thanh toán và xuất hóa đơn cho khách.</li>
     <li>Các danh mục.</li>
     <li>AI: Nhận diện khách nhận phòng (Nhận diện khuôn mặt).</li>
   </ul>
-  WEB:<br>
+  <h4>WEP:</h4>
   <ul>
     <li>Đặt online</li>
   </ul>
