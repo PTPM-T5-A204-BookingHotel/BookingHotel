@@ -2,14 +2,14 @@
 
 <h3>Thành viên nhóm :</h3>
 <ul>
-  <li>Phan Nguyễn - Nhóm trưởng</li>
+  <li>Nguyễn Nhựt Phi - Nhóm trưởng</li>
   <li>Đoàn Công Đạt - Thành viên</li>
-  <li>Nguyễn Phước Long - Thành viên</li>
+  <li>Phan Nguyễn- Thành viên</li>
 </ul>
 <div>
-  <img src="https://avatars.githubusercontent.com/u/139961623?v=4" width="80" height="80">
-  <img src="https://avatars.githubusercontent.com/u/93666764?v=4" width="80" height="80">
   <img src="https://zpsocial-f54-org.zadn.vn/1eb8450da970482e1161.jpg" width="80" height="80">
+  <img src="https://avatars.githubusercontent.com/u/93666764?v=4" width="80" height="80">
+  <img src="https://avatars.githubusercontent.com/u/139961623?v=4" width="80" height="80">
 </div>
 <h3>Các yêu cầu của đề tài:</h3>
   <h4>WEB:</h4>
