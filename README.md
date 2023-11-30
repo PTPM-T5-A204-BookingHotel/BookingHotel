@@ -28,7 +28,6 @@
 <ul>
   <li>Tiết kiệm thời gian trong quản lý</li>
   <li>Dữ liệu được lưu trữ trực tiếp trên hệ thống</li>
-  <li>Giao diện dễ nhìn</li>
 </ul>
 <h4>Hạn chế:</h4>
 <ul>
