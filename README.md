@@ -26,10 +26,14 @@
 <h3>Các ưu điểm và hạn chế:</h3>
 <h4>Ưu điểm:</h4>
 <ul>
-  <li>Tiết kiệm thời gian</li>
-  <li>Độ chính xác cao</li>
+  <li>Tiết kiệm thời gian trong quản lý</li>
   <li>Dữ liệu được lưu trữ trực tiếp trên hệ thống</li>
-  <li>Quản lý hoạt động kinh doanh từ xa</li>
-  <li>Giao diện dễ dùng</li>
+  <li>Giao diện dễ nhìn</li>
 </ul>
 <h4>Hạn chế:</h4>
+<ul>
+  <li>Độ chính xác còn tương đối</li>
+  <li>Dữ liệu chia có thể chia sẻ với nhau</li>
+  <li>Chưa có hỗ trợ AI</li>
+  <li>Chương trình chưa đóng gói</li>
+</ul>
