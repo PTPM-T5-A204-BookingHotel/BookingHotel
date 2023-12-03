@@ -28,11 +28,11 @@
 <ul>
   <li>Tiết kiệm thời gian trong quản lý</li>
   <li>Dữ liệu được lưu trữ trực tiếp trên hệ thống</li>
+  <li>Hỗ trợ chatbot trên web</li>
 </ul>
 <h4>Hạn chế:</h4>
 <ul>
   <li>Độ chính xác còn tương đối</li>
   <li>Dữ liệu chưa có thể chia sẻ với nhau</li>
-  <li>Chưa có hỗ trợ AI</li>
   <li>Chương trình chưa đóng gói</li>
 </ul>
